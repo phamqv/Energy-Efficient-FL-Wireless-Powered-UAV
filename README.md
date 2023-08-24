@@ -8,7 +8,7 @@ Bibtex:
 @ARTICLE{pham2022energy,
   author={Pham, Quoc-Viet and Le, Mai and Huynh-The, Thien and Han, Zhu and Hwang, Won-Joo},
   journal={IEEE Transactions on Vehicular Technology}, 
-  title={Energy-Efficient Federated Learning Over UAV-Enabled Wireless Powered Communications}, 
+  title={Energy-Efficient Federated Learning Over {UAV}-Enabled Wireless Powered Communications}, 
   year={2022},
   volume={71},
   number={5},
